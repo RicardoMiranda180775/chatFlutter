@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "285244407656",
+    "firebase_url": "https://mychat-3af3d.firebaseio.com",
+    "project_id": "mychat-3af3d",
+    "storage_bucket": "mychat-3af3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285244407656:android:a49a55f109336dcaf2e0dd",
+        "android_client_info": {
+          "package_name": "br.com.miranda.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285244407656-tup7bgakrcutfmjdot0ku6b89ueb6hue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.miranda.chat_online",
+            "certificate_hash": "6f350fbbfd59190d324ac9e86635bcf0ba67cad5"
+          }
+        },
+        {
+          "client_id": "285244407656-pgc7n8m1cc40gnm2u7m170f832f89ogq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwEmC43EMNLtPZJlvzM517cVKRH58XL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285244407656-pgc7n8m1cc40gnm2u7m170f832f89ogq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
